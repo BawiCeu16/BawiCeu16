@@ -10,10 +10,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/BawiCeu16/BawiCeu16/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h3 align="left">social media</h3>
 
 ###
